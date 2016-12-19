@@ -1,2 +1,3 @@
-# uss
-UniOtaku Shoutbox Stats
+# UniOtaku Shoutbox Stats
+
+Coming Soon.

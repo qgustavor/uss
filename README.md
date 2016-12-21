@@ -1,3 +1,5 @@
 # UniOtaku Shoutbox Stats
 
-Coming Soon.
+Avaliable at: https://qgustavor.github.io/uss/
+
+Source code coming soon.
